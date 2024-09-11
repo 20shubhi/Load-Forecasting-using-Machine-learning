@@ -1,5 +1,2 @@
 # Load-Forecasting-using-Machine-learning
-In the project focused on electrical load forecasting, extensive analysis of load patterns was conducted to 
-understand the underlying trends and variations. Subsequently, Machine Learning (ML) models were 
-selected based on their suitability for predicting future load demands with high accuracy. The chosen
-models for this task were the Linear Regression Modeland the Decision Tree Model.
+The project focused on Electrical Load Forecasting, extensive analysis of load patterns was conducted to understand the underlying trends and variations. Subsequently, the Machine Learning (ML) Linear Regression model was selected based on its suitability for predicting future load demands with high accuracy. The electrical load was considered for Delhi city and the dataset was extracted from the Government of Delhi website. Also, a comparative study was done to check the accuracy of the forecasting prediction. Approximately 75-80% of the predicted ML result was linear to the forecasted result of the Delhi Governmet. Python's matplotlib library was also used for the result visualization. 
